@@ -1,0 +1,7 @@
+\\GMRDC1\Folder Redirection\Kavin.Phabiani\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Kavin.Phabiani\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Kavin.Phabiani\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+\\GMRDC1\Folder Redirection\Kavin.Phabiani\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+\\GMRDC1\Folder Redirection\Kavin.Phabiani\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+\\GMRDC1\Folder Redirection\Kavin.Phabiani\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+\\GMRDC1\Folder Redirection\Kavin.Phabiani\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
